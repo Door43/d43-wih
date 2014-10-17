@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wih:home|Door43 (wih)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wih|d43-wih repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wih/archive/master.zip|d43-wih.zip]]
+
+**Recent Changes**
+{{changes>ns = wih}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wih|Ethnologue data]]
+
